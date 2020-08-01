@@ -1,0 +1,177 @@
+{
+  "categorias": [
+    {
+      "titulo": "Shalom",
+      "link": "https://comshalom.org",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Amigo dos pobres",
+        "url": "http://www.amigodospobres.org/"
+      },
+      "videos": [
+        {
+          "titulo": "I G U A I S - Documentário Shalom amigo dos pobres",
+          "url": "https://youtu.be/IeVxrp3YVL0"
+        },
+        {
+          "titulo": "Capela Virtual",
+          "url": "https://youtu.be/iDSWevX03Rs"
+        },
+        {
+          "titulo": "Espetáculo PARA ONDE CORREM OS RIOS | Cia de Artes Shaloms",
+          "url": "https://www.youtube.com/watch?v=4juQNQliXSM"
+        },
+        {
+          "titulo": "VOCACIONAL RESPONDE | Estado de vida: Matrimônio",
+          "url": "https://youtu.be/Ni6t9ukavU0"
+        },
+        {
+          "titulo": "Documentário - Expedição Missionária: Madagascar",
+          "url": "https://www.youtube.com/watch?v=AOPug_lmKr4"
+        },
+        {
+          "titulo": "Ofício da Imaculada | Suely Façanha",
+          "url": "https://www.youtube.com/watch?v=UyykSnyVoiw"
+        },
+        {
+          "titulo": "Pe. Denys Lima | Jesus se une ao coração humano",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "Você sabe o que é Celibato?",
+          "url": "https://www.youtube.com/watch?v=s51KDM537No"
+        }        
+      ]
+    },
+    {
+      "titulo": "Curso Família Caminho para o céu",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Shalom",
+        "url": "https://comshalom.org"
+      },
+      "videos": [
+        {
+          "titulo": "Curso Família Caminho para o céu | #1",
+          "url": "https://www.youtube.com/watch?v=7WRT4QM_F4c"
+        },
+        {
+          "titulo": "Curso Família Caminho para o céu | #2",
+          "url": "https://www.youtube.com/watch?v=s_7v0owYKcs"
+        },
+        {
+          "titulo": "Curso Família Caminho para o céu | #3",
+          "url": "https://www.youtube.com/watch?v=IkNTYUAxhtE"
+        }
+      ]
+    },
+    {
+      "titulo": "Podcast João 20",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "JOÃO 20 PODCAST | Wallace Freitas Ep. 01",
+          "url": "https://youtu.be/pjT4z24hIhA"
+        },
+        {
+          "titulo": "JOÃO 20 PODCAST | Vitor Aragão (Vitinho) Ep. 02",
+          "url": "https://youtu.be/K9ATn1_xSOU"
+        },
+        {
+          "titulo": "PODCAST JOÃO 20 | Marcela Leitão Ep. 03",
+          "url": "https://www.youtube.com/watch?v=6r-WIi8NKvM"
+        },
+        {
+          "titulo": "PODCAST JOÃO 20 | Mayara Amaral Ep. 04",
+          "url": "https://www.youtube.com/watch?v=tWn9QSxjcjM"
+        }
+      ]
+    },
+    {
+      "titulo": "Internacional",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "¿Dios me llama a mí? | María Magdalena",
+          "url": "https://www.youtube.com/watch?v=-KcKDXiyNc0"
+        },
+        {
+          "titulo": "Noche de Alabanza ESPECIAL - 38 años",
+          "url": "https://www.youtube.com/watch?v=iOa9YKqidRA"
+        },
+        {
+          "titulo": "Tereré con Arte - Misión Asunción",
+          "url": "https://youtu.be/i6BSf9qGa6w"
+        },
+        {
+          "titulo": "Salmo 144 | Juliana",
+          "url": "https://www.youtube.com/watch?v=Leb-E71BPLc"
+        }
+      ]
+    },
+    {
+      "titulo": "Missões",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
